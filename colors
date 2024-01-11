@@ -1,0 +1,26 @@
+#! /usr/bin/env bash
+
+bg_color="#292424"
+selection_background="#3c3737"
+selection_foreground="#e6e1e1"
+
+black="#292424"
+red="#f95353"
+green="#3eb82e"
+yellow="#ffdf80"
+blue="#6599cd"
+purple="#b390d5"
+cyan="#51e1bd"
+white="#e6e1e1"
+
+bright_black="#504545"
+bright_red="#d04949"
+bright_green="#258e25"
+bright_yellow="#e6ac00"
+bright_blue="#628cb7"
+bright_purple="#ba7ece"
+bright_cyan="#1eae8a"
+bright_white="#dbd7d7"
+
+light_grey="#666161"
+dark_grey="#363030"
