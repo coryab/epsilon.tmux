@@ -8,3 +8,6 @@ This theme is a work in progress, so it may change at any time.
 
 ![](https://i.imgur.com/3JvunMG.png)
 
+## License
+
+This repository is licensed using the [MIT License](./LICENSE).
